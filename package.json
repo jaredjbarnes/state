@@ -28,7 +28,10 @@
   "files": [
     "dist",
     "src",
-    "tsconfig.json"
+    "tsconfig.json",
+    "LICENSE",
+    "NOTICE",
+    "README.md"
   ],
   "scripts": {
     "build": "vite build",
