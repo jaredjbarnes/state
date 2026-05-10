@@ -1,23 +1,15 @@
 @jjb/state
 Copyright 2026 Jared J Barnes
 
-================================================================================
-
 This package is a fork of @tcn/state
-(https://www.npmjs.com/package/@tcn/state), which was originally:
+(https://www.npmjs.com/package/@tcn/state):
 
     Copyright 2024 TCN
     Licensed under the Apache License, Version 2.0
 
-The original code from @tcn/state remains under the Apache License 2.0.
-See LICENSE-APACHE for the full license text.
+The fork and all subsequent modifications by Jared J Barnes are also
+distributed under the Apache License, Version 2.0. See LICENSE.
 
-Modifications, additions, and new files made in this repository by
-Jared J Barnes are licensed under the MIT License. See LICENSE-MIT.
-
-The combined work is therefore distributed under the terms of
-(Apache-2.0 AND MIT).
-
-Files in this repository that originate from @tcn/state may have been
-modified from their original form. Refer to the git history of this
-repository for the complete record of changes (Apache License 2.0 § 4(b)).
+Files in this repository may have been modified from the @tcn/state
+distribution. Refer to the git history for the complete record of
+changes (Apache License 2.0 § 4(b)).
