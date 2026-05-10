@@ -77,6 +77,10 @@ npm test              # vitest watch
 npm run test:run      # vitest run (CI)
 ```
 
+## Origins
+
+This package is a fork of [`@tcn/state`](https://www.npmjs.com/package/@tcn/state) (Copyright 2024 TCN, Apache License 2.0). The original code remains under Apache 2.0; modifications and new contributions in this repository are MIT licensed. See [`NOTICE`](./NOTICE) for the full attribution.
+
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+Dual-licensed under [Apache 2.0](./LICENSE-APACHE) AND [MIT](./LICENSE-MIT) — SPDX expression `(Apache-2.0 AND MIT)`. See [`NOTICE`](./NOTICE) for which parts are governed by which license.

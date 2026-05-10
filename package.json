@@ -2,7 +2,7 @@
   "name": "@jjb/state",
   "version": "0.1.0",
   "description": "Reactive state primitives — Signals, Runners, Broadcasts — with optional React bindings.",
-  "license": "MIT",
+  "license": "(Apache-2.0 AND MIT)",
   "author": "Jared J Barnes",
   "type": "module",
   "main": "./dist/index.js",
