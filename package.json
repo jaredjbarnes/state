@@ -1,5 +1,5 @@
 {
-  "name": "@jjb/state",
+  "name": "@j13b/state",
   "version": "0.1.0",
   "description": "Reactive state primitives — Signals, Runners, Broadcasts — with optional React bindings.",
   "license": "Apache-2.0",

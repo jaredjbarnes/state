@@ -4,7 +4,7 @@
  *
  * @example
  * ```typescript
- * import { useSignalValue, useRunnerStatus } from '@jjb/state/react';
+ * import { useSignalValue, useRunnerStatus } from '@j13b/state/react';
  * ```
  */
 export * from './hooks/use_signal_value.js';

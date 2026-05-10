@@ -5,7 +5,7 @@
  *
  * @example
  * ```typescript
- * import { Signal, Runner } from '@jjb/state/core';
+ * import { Signal, Runner } from '@j13b/state/core';
  * ```
  */
 export * from './ibroadcast.js';

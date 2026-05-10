@@ -1,19 +1,19 @@
-# @jjb/state
+# @j13b/state
 
 Reactive state primitives for TypeScript — `Signal`s, `Runner`s, and broadcast subscriptions, with optional React bindings.
 
 ## Install
 
 ```bash
-npm install @jjb/state
+npm install @j13b/state
 ```
 
-React is an optional peer dependency — only required if you import from `@jjb/state/react`.
+React is an optional peer dependency — only required if you import from `@j13b/state/react`.
 
 ## Quick start
 
 ```ts
-import { Signal } from "@jjb/state";
+import { Signal } from "@j13b/state";
 
 const counter = new Signal(0);
 
@@ -33,16 +33,16 @@ The package ships three entry points so you can pull in only what you need:
 
 | Import path | Use when |
 |---|---|
-| `@jjb/state` | You want everything (signals, runners, React hooks). |
-| `@jjb/state/core` | You want the framework-agnostic primitives — no React. |
-| `@jjb/state/react` | You want the React-specific hooks and bindings. |
+| `@j13b/state` | You want everything (signals, runners, React hooks). |
+| `@j13b/state/core` | You want the framework-agnostic primitives — no React. |
+| `@j13b/state/react` | You want the React-specific hooks and bindings. |
 
 ```ts
 // Framework-agnostic (Node, workers, vanilla TS)
-import { Signal, Runner } from "@jjb/state/core";
+import { Signal, Runner } from "@j13b/state/core";
 
 // React app
-import { useSignalValue, useRunnerStatus } from "@jjb/state/react";
+import { useSignalValue, useRunnerStatus } from "@j13b/state/react";
 ```
 
 ## What's in the box
